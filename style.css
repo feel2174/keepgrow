@@ -315,6 +315,13 @@ body{
   font-size: 13px;
   color: var(--text-sub);
 }
+.footer-text a{
+  color: var(--text-sub);
+  text-decoration: underline;
+}
+.footer-text a:hover{
+  color: var(--indigo);
+}
 
 /* IMAGE SECTIONS */
 .center{ text-align: center; }
